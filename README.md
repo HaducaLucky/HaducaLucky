@@ -1,5 +1,9 @@
 ![MasterHead](https://i.pinimg.com/originals/2a/79/61/2a7961d30dd51b1a8ac86d2dcf76d6ae.jpg)
-<h1 align="center">Hi 👋, I'm Lucky Haduca</h1>
+<div align="center">
+    
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Lucky)](https://git.io/typing-svg)
+</div>
+
 <h3 align="center">A Computer Science student in ISPSC</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
