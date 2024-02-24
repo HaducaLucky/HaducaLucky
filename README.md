@@ -1,7 +1,7 @@
-![MasterHead](https://www.bhmpics.com/downloads/anime-youtube-banner-Wallpapers/32.c769ed916e1256ed9505d6db0a674abe.jpg)
+![MasterHead](https://i.pinimg.com/originals/2a/79/61/2a7961d30dd51b1a8ac86d2dcf76d6ae.jpg)
 <h1 align="center">Hi 👋, I'm Lucky Haduca</h1>
 <h3 align="center">A Computer Science student in ISPSC</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haducalucky&label=Profile%20views&color=0e75b6&style=flat" alt="haducalucky" /> </p>
 
