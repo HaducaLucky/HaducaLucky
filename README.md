@@ -1,7 +1,7 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/04/46/93/93/360_F_446939375_83iP0UYTg5F9vHl6icZwgrEBHXeXMVaU.jpg)
 <h1 align="center">Hi 👋, I'm Lucky Haduca</h1>
 <h3 align="center">A Computer Science student in ISPSC</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haducalucky&label=Profile%20views&color=0e75b6&style=flat" alt="haducalucky" /> </p>
 
