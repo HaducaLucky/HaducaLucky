@@ -44,4 +44,4 @@
   </a> 
 </p>
 
-
+![snake gif](https://github.com/HaducaLucky/HaducaLucky/blob/output/github-contribution-grid-snake.svg)
