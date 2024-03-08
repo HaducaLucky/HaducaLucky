@@ -2,9 +2,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=32CD32&size=35&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B+I'm+Lucky;CS+Student">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF0000&size=35&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B+I'm+Lucky;CS+Student">
   </a>
 </div>
+
+
 
 <h3 align="center">A Computer Science student in ISPSC</h3>
 
@@ -45,3 +47,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+
+
