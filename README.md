@@ -6,17 +6,29 @@
   </a>
 </div>
 
+<hr>
+
 <h3 align="center">A Computer Science student in ISPSC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haducalucky&label=Profile%20views&color=0e75b6&style=flat" alt="haducalucky" /> </p>
 
-- 🔭 I’m currently studying at **Ilocos Sur Polythenic State College**
-- 🌱 I’m currently learning **Application Development**
-- 📫 How to reach me: [luckyhaduca16@gmail.com](mailto:luckyhaduca16@gmail.com)
-- ⚡ Fun fact: I like cats
+<div align="center">
+  
+ 🔭 I’m currently studying at **Ilocos Sur Polythenic State College**
+ 
+ 🌱 I’m currently learning **Application Development**
+ 
+ 📫 How to reach me: [luckyhaduca16@gmail.com](mailto:luckyhaduca16@gmail.com)
+ 
+ ⚡ Fun fact: I like cats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</div>
+
+<hr>
+
+<div align="center">
+<h3>Connect with me:</h3>
+<p>
   <a href="https://instagram.com/linkxx16" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linkxx16" height="30" width="40" />
   </a>
@@ -24,9 +36,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lucky Haduca" height="30" width="40" />
   </a>
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<hr>
+
+<div align="center">
+<h3>Languages and Tools:</h3>
+<p> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -43,12 +59,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haducalucky&show_icons=true&locale=en&layout=compact&theme=radical" alt="haducalucky" /></p>
+<hr>
+
+<div align="center">
+<h2>My Github Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haducalucky&show_icons=true&locale=en&layout=compact&theme=radical" alt="haducalucky" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=haducalucky&show_icons=true&locale=en&theme=radical" alt="haducalucky" /></p>
 
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haducalucky&theme=radical" alt="haducalucky" /></p>
+</div>
+
 
 <img alt="snake gif" src="https://raw.githubusercontent.com/HaducaLucky/HaducaLucky/output/github-contribution-grid-snake.svg" />
