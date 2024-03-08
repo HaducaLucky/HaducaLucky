@@ -50,3 +50,5 @@
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haducalucky&theme=radical" alt="haducalucky" /></p>
+
+<img alt="snake gif" src="https://raw.githubusercontent.com/HaducaLucky/HaducaLucky/output/github-contribution-grid-snake.svg" />
