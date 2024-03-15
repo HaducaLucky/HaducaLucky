@@ -8,7 +8,7 @@
 
 <hr>
 
-<h1 align="center">A Computer Science student in ISPSC</h1>
+<h1 align="center">A Computer Science Student in ISPSC</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haducalucky&label=Profile%20views&color=0e75b6&style=flat" alt="haducalucky" /> </p>
 
