@@ -23,7 +23,7 @@
  ⚡ Fun fact: I like cats
 
 <a href="https://haducalucky.github.io/Portfolio-HaducaLucky/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=todoist&logoColor=000000" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=todoist&logoColor=000000" />
 </a>
 
 
