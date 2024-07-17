@@ -20,7 +20,7 @@
  
  📫 How to reach me: [luckyhaduca16@gmail.com](mailto:luckyhaduca16@gmail.com)
  
- ⚡ Fun fact: I love cats
+ ⚡ Fun fact: I love Cats
 
 <a href="https://haducalucky.github.io/Portfolio-HaducaLucky/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=todoist&logoColor=000000" />
