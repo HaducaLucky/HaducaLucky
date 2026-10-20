@@ -81,10 +81,14 @@
 
 <hr>
 
+
 <div align="center">
   <h2>🏆 GitHub Trophies 🏆</h2>
-  <div style="text-align: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=HaducaLucky&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-  </div>
-</div>
 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=HaducaLucky&theme=radical&no-frame=true&no-bg=true&margin-w=4"
+      alt="GitHub Trophies"
+    />
+  </a>
+</div>
