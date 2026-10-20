@@ -79,12 +79,3 @@
 <h2 align="center">👺 My Contributions 👺</h2>
 <img alt="snake gif" src="https://raw.githubusercontent.com/HaducaLucky/HaducaLucky/output/github-contribution-grid-snake.svg" />
 
-<hr>
-
-<div align="center">
-  <h2>🏆 GitHub Trophies 🏆</h2>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=HaducaLucky&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=-%3F"
-    alt="GitHub Trophies"
-  />
-</div>
