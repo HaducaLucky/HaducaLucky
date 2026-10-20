@@ -79,3 +79,4 @@
 <h2 align="center">👺 My Contributions 👺</h2>
 <img alt="snake gif" src="https://raw.githubusercontent.com/HaducaLucky/HaducaLucky/output/github-contribution-grid-snake.svg" />
 
+<hr>
